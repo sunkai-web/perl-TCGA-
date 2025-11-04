@@ -1,5 +1,5 @@
 # perl-TCGA-
-perl脚本整理TCGA转录组
+perl脚本整理TCGA转录组，获得表格文件
 #使用方法
 1.文件配置
 project_dir/
